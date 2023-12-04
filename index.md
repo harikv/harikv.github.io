@@ -10,7 +10,7 @@ I am currently a Data Scientist at [Development Data Lab](https://www.devdatalab
 
 - [Github](https://www.github.com/harikv)
 - [Medium](https://medium.com/@harikv)
-- [Mail](mailto:harik@u.nus.edu)
+- [Mail](mailto:nus.harikv@gmail.com)
 - [Twitter](https://twitter.com/harikv73/)
 - [LinkedIn](https://www.linkedin.com/in/hari-krishna-vetharenian-32391171/)
 - [CV](/assets/cv.pdf)
