@@ -15,12 +15,4 @@ I am currently a Data Scientist at [Development Data Lab](https://www.devdatalab
 - [LinkedIn](https://www.linkedin.com/in/hari-krishna-vetharenian-32391171/)
 - [CV](/assets/cv.pdf)
 
-# Interests
-
-- Design of Open Data Ecosystems
-- Econometrics
-- Topic Modelling
-- Interactions between Technology and Policy
-- Data Crawling
-- Automation
 
